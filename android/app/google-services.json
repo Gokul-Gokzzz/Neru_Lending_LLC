@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251082191038",
+    "project_id": "luxury-guide-6949d",
+    "storage_bucket": "luxury-guide-6949d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251082191038:android:8407207d610066eb2a6eef",
+        "android_client_info": {
+          "package_name": "com.luxuryguide.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD188Ld68yiNbHTvQ0HNrmYDayN15S-CPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
